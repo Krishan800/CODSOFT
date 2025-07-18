@@ -1,1 +1,1 @@
-# CODSOFT
+Welcome to my CodSoft Internship repository! This repository contains the Python projects I completed as part of the internship task requirements. Each project demonstrates fundamental Python programming skills and practical application development.
